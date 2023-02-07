@@ -1,0 +1,13 @@
+certifi @ file:///croot/certifi_1669749558946/work/certifi
+charset-normalizer==3.0.1
+colorama==0.4.6
+idna==3.4
+instagrapi==1.16.31
+Pillow==9.4.0
+pycryptodomex==3.15.0
+pydantic==1.10.2
+PySocks==1.7.1
+requests==2.28.2
+typing_extensions==4.4.0
+urllib3==1.26.14
+yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
