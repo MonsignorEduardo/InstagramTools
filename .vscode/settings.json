@@ -1,5 +1,6 @@
 {
   "python.analysis.typeCheckingMode": "basic",
   "python.formatting.provider": "yapf",
-  "cSpell.words": ["instagrapi"]
+  "cSpell.words": ["instagrapi"],
+  "python.analysis.autoImportCompletions": true
 }
